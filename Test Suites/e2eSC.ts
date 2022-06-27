@@ -34,7 +34,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Edge Chromium</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/e2eTS_Edge</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
